@@ -6,8 +6,8 @@ angular.module('htckApp').factory('hTools', function() {
     var fimg = new Image(); 
     fimg.src = src;
 
-    var width = fimg.width;
-    var height = fimg.height;
+    var width = fimg.width * 0.2;
+    var height = fimg.height * 0.2;
 
     return {w:width, h:height};
   }

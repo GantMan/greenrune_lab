@@ -1,0 +1,13 @@
+{
+  "name": "raphael_json",
+  "homepage": "https://github.com/AliasIO/Raphael.JSON",
+  "_release": "7d50f2a95a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7d50f2a95afc3bfceece2fdc9416c95e7c131601"
+  },
+  "_source": "https://github.com/AliasIO/Raphael.JSON.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/AliasIO/Raphael.JSON.git"
+}
